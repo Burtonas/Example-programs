@@ -1,2 +1,2 @@
-# Learning-process
-Example programs that I wrote during my course
+# Example-programs
+Example programs that I wrote.
